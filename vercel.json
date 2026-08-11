@@ -1,4 +1,5 @@
 {
+  "buildCommand": "echo 'Build skipped'",
   "version": 2,
   "functions": {
     "api/index.php": {
