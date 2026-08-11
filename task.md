@@ -1,0 +1,14 @@
+- [x] Initialize Laravel 12 project in workspace
+- [x] Create configuration file `config/profile.php` with all profile details
+- [x] Create database migrations for models: Settings, Skills, Experiences, Projects, Certificates, Education, Achievements, and Contact Messages
+- [x] Create Eloquent Models
+- [x] Create Seeders to populate database from `config/profile.php`
+- [x] Create public PortfolioController and Admin Auth / CRUD Controllers
+- [x] Create reusable Blade components (`project-card`, `skill-card`, `timeline-item`, etc.)
+- [x] Create CSS and JS assets containing dark/light theme, custom cursor, floating animations, GSAP scroll triggers, custom canvas particles, and project filtering
+- [x] Create main portfolio view (`resources/views/portfolio/index.blade.php`) and site layout (`layouts/app.blade.php`)
+- [x] Create Admin panel layouts and views (Dashboard, login, CRUD interfaces)
+- [x] Define routes in `routes/web.php`
+- [x] Set up custom error views (404, 500) and SEO files (robots.txt, sitemap.xml, structured schema)
+- [x] Verify project functionality (migration, seeding, running local server, checking links, forms, and admin logins)
+- [x] Write final Walkthrough
